@@ -1,5 +1,7 @@
 ### Hello, I'm Raul Rosá 👋
 
+Currently working more on Gitlab than Github hehe
+
 <div>
   <img height="180em" alt="Raulrozza's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=raulrozza&theme=tokyonight&count_private=true&show_icons=true" />
   <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
